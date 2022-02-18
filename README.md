@@ -1,4 +1,4 @@
-# GRIP_TASKS
+# GRIP_TASK
 
 Task One : Prediction using Supervised ML
 
